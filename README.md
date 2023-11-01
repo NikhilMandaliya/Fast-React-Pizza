@@ -29,11 +29,11 @@ git clone https://github.com/NikhilMandaliya/Fast-React-Pizza.git
 ```
 cd Fast-React-Pizza
 ```
-2. Install the project dependencies:
+3. Install the project dependencies:
 ```
 npm install
 ```
-3. Start the development server:
+4. Start the development server:
 ```
 npm run dev
 ```  
