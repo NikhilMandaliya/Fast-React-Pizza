@@ -4,7 +4,7 @@ Welcome to Fast React Pizza! In this project, I have explored various React tech
 
 ---
 ## Live Demo
-You can access a live demo of Fast-React-Pizza at the following [link](https://nik-fast-react-pizza.vercel.app/)
+You can access a live demo of Fast-React-Pizza at the following [link](https://nik-fast-react-pizza.netlify.app/)
 
 ## What I Have Learned
 Throughout the development this project, I've gained valuable experience and knowledge in several key areas:
